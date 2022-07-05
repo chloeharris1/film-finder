@@ -15,6 +15,9 @@ Obfuscating the API key was outside the scope of this project, so my key is publ
 
 ![screenshot](./filmfinder.png)
 
+## Site Link
+[Film Finder](https://chloeharris1.github.io/film-finder/)
+
 ## License
 Licensed under the MIT license.
 
